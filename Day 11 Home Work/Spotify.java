@@ -44,7 +44,7 @@ class Spotify
 				}
 				else if(song==4)
 				{
-					System.out.println("Playing Malargale Malargarle");
+					System.out.println("Playing Malargale Malargale");
 				}
 				else
 				{
